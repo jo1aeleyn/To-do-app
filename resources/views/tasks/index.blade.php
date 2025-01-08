@@ -16,7 +16,7 @@
     <div class="container my-5 px-3">
     <!-- Main Container with responsiveness -->
     <div class="row justify-content-center">
-    <div class="col-12 col-md-8 col-lg-6 p-3 border">
+    <div class="col-12 col-md-8 col-lg-6 p-3 border" style=" background-color:white;">
     <h1 class="text-center">To-Do List</h1>
 
     <form action="/tasks" method="POST" class="my-4">
