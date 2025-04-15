@@ -18,7 +18,7 @@ class Task extends Model
         'title',
         'isComplete',
         'isArchived',
-        'priority_level', // Include this if you've added the isArchived column
+        'priority_level' // Include this if you've added the isArchived column
     ];
 
     /**
